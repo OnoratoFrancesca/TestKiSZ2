@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'KISZ'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F981BEB8F42247438681D72F9F9573DB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7D0860B5A86B42D4854C4424ABD00156 }}
